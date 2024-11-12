@@ -53,7 +53,7 @@ São empregados séries de demanda e preços mensais de janeiro de 2021 a junho 
 
 Séries de varejo são bastante desafiadoras pois incorparam variações de demanda, preços, troca de produtos etc. Apesar disso, os modelos obtidos fornecem uma estimativa, ao menos para metade dos produtos e incluindo receita total, útil diante da grande volatilidade que as séries apresentam, estando o resultado dos mdoelos estatísticos muito próximo dos obtidos pelos modelos de ML.
 
-# Referências
+## Referências
 
 [1] Oliveira, R., Abarracin, O. Y. E., Silva, G. R. (2024) **Introdução às Séries Temporais: Uma Abordagem Prática em Python**. Editora Mackenzie.
 
